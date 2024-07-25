@@ -70,7 +70,7 @@ export const UpdateProfile = () => {
             </select>
           </div>
           <div className="form-group">
-            <label htmlFor="fullName">Nombre Completo</label>
+            <label htmlFor="fullName">Nombre</label>
             <input 
               type="text" 
               id="fullName" 

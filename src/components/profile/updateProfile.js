@@ -37,7 +37,7 @@ export const UpdateProfile = () => {
             />
           </div>
           <div className="form-group">
-            <label htmlFor="email">Correo:</label>
+            <label htmlFor="email">Correo</label>
             <input 
               type="email" 
               id="email" 

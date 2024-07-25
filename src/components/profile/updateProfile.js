@@ -47,7 +47,7 @@ export const UpdateProfile = () => {
             />
           </div>
           <div className="form-group">
-            <label htmlFor="birthdate">Fecha de Nacimiento</label>
+            <label htmlFor="birthdate">Fecha de Nacimiento:</label>
             <input 
               type="date" 
               id="birthdate" 

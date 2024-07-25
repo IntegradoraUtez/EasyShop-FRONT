@@ -24,7 +24,7 @@ export const UpdateProfile = () => {
   return (
     <div className="update-profile-container">
       <div className="update-profile-card">
-        <h2>Actualizar Perfil</h2>
+        <h2>Actualizar</h2>
         <form onSubmit={handleUpdate}>
           <div className="form-group">
             <label htmlFor="username">Nombre de Usuario:</label>
